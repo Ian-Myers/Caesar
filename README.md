@@ -7,6 +7,6 @@ Caesar uses <a href="https://pjreddie.com/darknet/">Darknet</a>, <a href="https:
 and <a href="https://github.com/tesseract-ocr/tesseract">Tesseract</a> to train its model using an open source convulusional neural network,
 run object detection on dash cam footage, and read the text on each sign detected.
 
-Due to a NDA with TomTom, I cannot share any of the source code, but I have included screenshots of the Caesar in action.
+Due to a NDA with TomTom, I cannot share any of the source code, but I will upload screenshots of the program in action ASAP.
 
 
