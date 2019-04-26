@@ -7,6 +7,6 @@ Caesar uses <a href="https://pjreddie.com/darknet/">Darknet</a>, <a href="https:
 and <a href="https://github.com/tesseract-ocr/tesseract">Tesseract</a> to train its model using an open source convulusional neural network,
 run object detection on dash cam footage, and read the text on each sign detected.
 
-I have uploaded several sample files to view.
+I have uploaded a sample python script that identifies speed limit signs from a video input and a sample image after detection.
 
 
