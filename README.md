@@ -9,6 +9,6 @@ run object detection on dash cam footage, and read the text on each sign detecte
 
 I have uploaded a sample python script that identifies speed limit signs from a video input.
 
-![Alt text](speedlimitdetectesd.png) 
+![Alt text](/speedlimitdetected.png)
 
 
